@@ -5,7 +5,9 @@ MVC is a design pattern.
 MVC - Model View Controller
 
 M (Model) - Data (DB query) and Business Logic
+
 V (View) - Design
+
 Controller -> Work between Model and View
 
 ### Homework
